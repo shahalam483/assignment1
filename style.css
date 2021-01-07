@@ -1,6 +1,30 @@
 body{
     margin: 0;
 }
+p{
+    color: rgba(62, 62, 62, 1);
+    text-align: justify;
+}
+h1{
+    font-size: 50px;
+    color:  rgba(62, 62, 62, 1);
+}
+h2{
+    font-size: 40px;
+    color:  rgba(62, 62, 62, 1);
+}
+h3{
+    font-size: 25px;
+    color:  rgba(62, 62, 62, 1);
+}
+h4{
+    color: white;
+    background-color: rgba(70, 48, 190, 1);
+    padding: 70px;
+    margin: auto;
+    width: 50%;
+    border-radius: 10px;
+}
 section{
     height: 500px;
     
@@ -23,19 +47,19 @@ section{
 #shah{
     height: 65%;
     border-radius: 10px;
-    background-color: blue;
+    background-color:rgba(255, 255, 255, 1);
     padding: 20px;    
 }
 #shah2{
     height: 65%;
     border-radius: 15px;
-    background-color: blue;
+    background-color:rgba(255, 255, 255, 1);
     padding: 20px;
 }
 #shah3{
     height: 65%;
     border-radius: 15px;
-    background-color: blue;
+    background-color: rgba(255, 255, 255, 1);
     padding: 20px;
 }
 .project-img{
@@ -45,11 +69,23 @@ section{
     
 }
 .section-back{
-    background-color: burlywood;
+    background-color:rgba(248, 249, 252, 1);
     padding-top: 80px;
     padding-bottom: 80px;
     
 }
 .heading-center{
     text-align: center;
+}
+.tomato{
+    color: rgba(244, 96, 96, 1);
+}
+#semi-black{
+    color: rgba(54, 57, 88, 1);
+}
+.chat-box{
+    float: right;
+}
+.inquiry{
+    font-size: 40px;
 }
